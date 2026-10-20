@@ -1,0 +1,12 @@
+body{
+    background-image: url("./1246524.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-blend-mode: lighten;
+}
+
+#container{
+    opacity: 0.90;
+}
