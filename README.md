@@ -1,4 +1,5 @@
 ![eldenringsivu](/eldenring.png)
+![eldenringsivu2](/eldenring2.png)
 
 # K5 Web-ohjelmoinnin toimeksianto
 
