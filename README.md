@@ -1,4 +1,4 @@
-![eldenringsivu](/Screenshot 2026-10-16 110659.png)
+![eldenringsivu](/eldenring.png)
 
 # K5 Web-ohjelmoinnin toimeksianto
 
